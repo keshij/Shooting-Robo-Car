@@ -6,4 +6,3 @@ This project describes the implementation of a Wi-Fi-enabled Robo car using ESP8
 On the receiving side, ESP8266 receives the command and controls the functioning of the Robocar accordingly.
 The highlight of our project is the SHOOTING MECHANISM.
 The shooting mechanism has the capability of covering the X and Y axis with the help of this the Robocar is able to hit the target more accurately from the static place. 
-Flow diagram of the project.
